@@ -1,22 +1,115 @@
 {
     "broadArea": {
-        "name": "",
-        "link": ""
+        "name": "Electronics and Communication Engineering",
+        "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
     },
-    "lab": "",
-    "deployLab": ,
-    "phase": ,
-    "collegeName": "",
-    "baseUrl": "",
-    "introduction": "",
-    "experiments": [],
+    "lab": "Digital Logic Design (Logic Gates & Mux-Demux)",
+    "deployLab": true,
+    "phase": 3,
+    "collegeName": "IITB",
+    "baseUrl": "dld-iitb.vlabs.ac.in",
+    "introduction": "Welcome to Digital Logic Design (Logic Gates & Mux-Demux)",
+    "experiments": [
+    {
+      "name": "Design of multiplexer circuit using gates",
+      "short-name": "multiplexer-using-basic-logic-gates",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/multiplexer-using-basic-logic-gates-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Multiplexer using Universal logic gates",
+      "short-name": "multiplexer-using-universal-logic-gates",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/multiplexer-using-universal-logic-gates-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Demultiplexer using basic logic gates",
+      "short-name": "demultiplexer-using-basic-logic-gates",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/demultiplexer-using-basic-logic-gates-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Demultiplexer using Universal logic gates",
+      "short-name": "demultiplexer-using-universal-logic-gates",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/demultiplexer-using-universal-logic-gates-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Application of Multiplexer",
+      "short-name": "multiplexer-application",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/multiplexer-application-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation of 8:1 multiplexer using MSI ICs",
+      "short-name": "implementation-multiplexer-using-msi",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/implementation-multiplexer-using-msi-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design of four variable function using MSI ICs",
+      "short-name": "four-variable-function",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/four-variable-function-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design of Gray to Binary code converter using MSI ICs",
+      "short-name": "gray-to-binary-code-converter",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/gray-to-binary-code-converter-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design of Binary to Gray code converter using MSI ICs",
+      "short-name": "binary-to-gray-code-converter",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/binary-to-gray-code-converter-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation of binary adder using MSI ICs",
+      "short-name": "binary-adder-implementation",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/binary-adder-implementation-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design of binary subtractor using MSI ICs",
+      "short-name": "binary-subtractor",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/binary-subtractor-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation of 4-bit digital comparator using MSI ICs",
+      "short-name": "four-bit-digital-comparator",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/four-bit-digital-comparator-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design of 8 -bit digital comparator using MSI ICs",
+      "short-name": "eight-bit-digital-comparator",
+      "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/eight-bit-digital-comparator-iitb",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+
+    ],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["B.Tech, BE"],
+        "PG": ["M.Tech, ME"]
     },
-    "objective": "",
+    "objective": "This lab is focussed on building multiplexer and demultiplexer combinational circuits using basic logic gates and universal gates. By doing so, the student will be able to compare the gate level involved in the circuit and also the number of gates required for the design. The students will also understand how to scale up the 2:1 mux to a 4:1 mux. Once the student understands this design approach he would be able to build higher order multiplexers.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": ["SPPU","AKTU"]
     }
 }
