@@ -3,8 +3,7 @@
     "name": "Electronics and Communication Engineering",
     "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
   },
-  "escapeCharOnFlag": "true",
-  "lab": "Digital Logic Design Logic Gates & Mux-Demux",
+  "lab": "Digital Logic Design (Logic Gates & Mux-Demux)",
   "lab_display_name": "Digital Logic Design (Logic Gates & Mux-Demux)",
   "deployLab": true,
   "phase": 3,
@@ -112,5 +111,5 @@
   },
   "exp_name": "Design of 8 -bit digital comparator using MSI ICs",
   "exp_short_name": "eight-bit-digital-comparator",
-  "version": "v0.12.0"
+  "version": "v0.13.0"
 }
