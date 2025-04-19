@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electronics and Communication Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
+    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code": "ECE"
   },
   "lab": "Digital Logic Design (Logic Gates & Mux-Demux)",
   "lab_display_name": "Digital Logic Design (Logic Gates & Mux-Demux)",
