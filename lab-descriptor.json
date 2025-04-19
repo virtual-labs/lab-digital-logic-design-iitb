@@ -43,7 +43,7 @@
       "name": "Application of Multiplexer",
       "short-name": "multiplexer-application",
       "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/multiplexer-application-iitb",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -64,7 +64,7 @@
       "name": "Design of Gray to Binary code converter using MSI ICs",
       "short-name": "gray-to-binary-code-converter",
       "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/gray-to-binary-code-converter-iitb",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -85,21 +85,21 @@
       "name": "Design of binary subtractor using MSI ICs",
       "short-name": "binary-subtractor",
       "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/binary-subtractor-iitb",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Implementation of 4-bit digital comparator using MSI ICs",
       "short-name": "four-bit-digital-comparator",
       "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/four-bit-digital-comparator-iitb",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Design of 8 -bit digital comparator using MSI ICs",
       "short-name": "eight-bit-digital-comparator",
       "repo": "https://gitlab.com/dld-lg-mux-demux-iitb/eight-bit-digital-comparator-iitb",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
